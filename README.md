@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @walker861
 - 👀 I’m currently in healthcare but interested in self paced learning. I have no formal computer science background. 
-- 🌱 I'm currently using LinkedIn learning for the CompTIA Fundamentals, A+, Security+ and Network+ to get started.
+- 🌱 I'm currently using LinkedIn learning for the CompTIA Fundamentals, A+, Security+ and Network+ to get started. I hope to find other strategies for self paced learning for programming.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
