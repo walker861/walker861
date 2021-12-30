@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @walker861
-- 👀 I’m currently in healthcare but interested in self paced learning. I have no formal computer science background. 
-- 🌱 I'm currently using The Odin Project and a couple iOS apps (Mimo & Grasshopper) to learn web development. I hope to find other strategies for self paced learning for programming. I have dabbled with code in Ubuntu and Raspberry pi. I am looking to gain more familiarity with these platforms and possibly transition careers in the future if I continue to find enjoyment from it.
+-  Hi, I’m Brandon.
+- I’m currently in healthcare but interested in self paced learning. I have no formal computer science background beyond a survey course in my undergraduate education.
+- I'm currently using The Odin Project, iOS apps (Mimo & Grasshopper), FreeCodeCamp and Frontend Mentor to learn web development. I am open to exploring other strategies for self-paced learning. Additionally, I have dabbled with code in Ubuntu and Raspberry pi. I am looking to gain more familiarity with these platforms and possibly transition careers in the future if I continue to find enjoyment from it.
 
 
 <!---
